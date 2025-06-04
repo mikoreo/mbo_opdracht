@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <style>
+            body {
+                background: linear-gradient(to bottom, #0d1b2a, #ff7043);
+            }
+            h1 {
+                color: rgb(255, 255, 255);
+                text-align: center;
+            }
+                        h2 {
+                color: white;
+                text-align: right;
+                margin-top: 20px;
+            }
+            p {
+                color: white;
+                font-size: 1.2em;
+                text-align: center;
+                margin: 20px;
+            }
+                img {
+                margin: 0 auto;
+                width: 50%;
+                height: auto;
+                margin: 20px ;
+            }
+            div.mycontainer {
+  width:100%;
+  overflow:auto;
+}
+div.mycontainer div {
+  width: 60%;
+  padding: 10px;
+  float:left;
+}
+            div.mycontainer2 {
+  width:100%;
+  overflow:auto;
+}
+div.mycontainer2 div {
+  width:45%;
+  padding:10px;  
+  float:right;
+}
+        </style>
+    </head>
+
+    <body>
+        <h1 style="font-size: 300%;">the machines</h1>
+        <p style="text-align: center; color: white; font-size: 1.2em;">The machines in Horizon Zero Dawn are a diverse array of robotic creatures, each with unique designs and functions. They range from small, nimble machines to massive, towering behemoths. These machines are remnants of a long-lost civilization, and their presence shapes the world Aloy explores.</p>
+        <div class="mycontainer">
+            <div>
+            <img src="https://www.theloadout.com/wp-content/sites/theloadout/2022/02/horizon-forbidden-west-reconnaissance-machines.jpg" alt="recon" width="104" height="142">
+            
+            <h2>Reconnaissance Machines</h2>
+            </div>
+            
+            </div>
+    
+    </body>

@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <style>
+            body {
+                background: linear-gradient(to bottom, #0d1b2a, #ff7043);
+            }
+            h1 {
+            color: rgb(31, 109, 15);
+            text-align: center;
+            }
+            h2 {
+                color: white;
+                text-align: center;
+                margin-top: 20px;
+            }
+            img {
+                margin: 0 auto;
+                width: 50%;
+                height: auto;
+                margin: 20px 0;
+            }
+            p {
+                color: white;
+                font-size: 1.2em;
+                text-align: center;
+                margin: 20px;
+            }
+            div.mycontainer {
+  width:100%;
+  overflow:auto;
+}
+div.mycontainer div {
+  width:45%;
+  padding:10px;  
+  float:left;
+}
+        </style>
+    </head>
+     <body>
+            <title>horizon</title>
+            <h1 style="font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif">horizon zero dawn</h1>
+            
+            <img src="https://www.guerrilla-games.com/media/Games/Horizon/games-horizon-montage-dark-to-light-2560w.jpg" alt="horizon banner" style="width: 100%; height: auto;">
+
+
+            <h2>the story</h2>
+            <p>The story follows Aloy, a young hunter in a world dominated by robotic creatures. Raised by her guardian Rost, she embarks on a quest to discover her origins and the truth behind the machines. As she explores the vast open world, she encounters various tribes, uncovers ancient technologies, and battles formidable foes.</p>
+            
+            <div class="mycontainer">
+                <div>
+                            <img src="https://res.cloudinary.com/cook-becker/image/fetch/q_auto:good,f_auto,w_1920/https://candb.com/site/candb/images/artwork/Aloy-Horizon-Zero-Dawn_Guerrilla.jpg" alt="aloy" width="500" height="142">
+
+                        </div>
+                        <div>
+            <h2>Aloy: The Brave Huntress of the Horizon
+
+</h2>
+                            <p>Aloy is the central protagonist of Horizon Zero Dawn and its sequel Horizon Forbidden West, critically acclaimed action role-playing games developed by Guerrilla Games. Born into a post-apocalyptic world overrun by robotic creatures and divided among primitive tribes, Aloy is a skilled hunter, archer, and survivor with a deeply curious mind.
+
+Orphaned at birth and cast out by the Nora tribe, Aloy is raised by a recluse named Rost. Her early life is marked by a burning desire to discover the truth about her origins and the mysterious technology left behind by the Old Ones. When she discovers a small device called a Focus, which allows her to interface with ancient machines and digital networks, her journey truly begins.
+
+Aloy’s strength lies not just in her combat prowess but in her intellect and determination. She is both a warrior and a seeker of knowledge, using ancient technology to uncover a forgotten past and confront powerful enemies. As the story unfolds, she learns that she is a genetic clone of Dr. Elisabet Sobeck, a brilliant scientist who played a key role in creating Project Zero Dawn, a last-ditch effort to save life on Earth.
+
+Throughout the series, Aloy evolves from an outcast into a symbol of hope and resilience. Her compassion, courage, and refusal to accept the world’s brokenness make her a powerful heroine. She's not just fighting machines—she's battling ignorance, fear, and the consequences of humanity’s past mistakes.
+
+With her fiery red hair, iconic bow, and fierce spirit, Aloy has become a modern video game icon and a compelling representation of strength and identity in a world rebuilding from ruin.
+
+</p>
+</div>
+            </div>
+
+            <div class="mycontainer">
+                <div>
+                    <img src="https://www.fwweekly.com/wp-content/uploads/2017/04/STUFF-2_Horizon-Zero-Dawn-1.jpg" alt="machines" width="500" height="142">
+                </div>
+                <div>
+                    <h2>machines of the wild</h2>
+                    <p>In Horizon Zero Dawn, machines are central to both the story and the gameplay. Set in a post-apocalyptic future where nature has reclaimed the earth, these robotic creatures roam the wilds and mimic the behavior of real-world animals. Created originally by the artificial intelligence system known as GAIA, these machines were meant to restore and maintain the planet’s biosphere after a cataclysmic extinction event. However, a mysterious signal later caused many of them to become hostile.</p>
+                    <h2>types and behavior</h2>
+                    <p>The machines come in various types, each with unique designs, behaviors, and functions. Some are passive and resemble herbivores like deer or cows, while others are aggressive and modeled after predators or military hardware. you can see them al on the other page</p>
+                </div>
+
+            
+
+                
+
+            
+            
+        </body>
+    
