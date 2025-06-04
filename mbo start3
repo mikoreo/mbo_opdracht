@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <style>
+            body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #f0f0f0;
+  background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+  background-attachment: fixed;
+  background-size: cover;
+}
+h1, h2, .highlight {
+  color: #00aaff;
+  text-shadow: 0 0 8px rgba(0, 170, 255, 0.6);
+}
+h1 {
+  text-align: center;
+  margin-top: 50px;
+  font-size: 3em;
+}
+        </style>
+    </head>
+
+    <body>
+        <title>focus</title>
+        <H1>The focus, technological marvel of the old ones</H1>
+    </body>

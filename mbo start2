@@ -11,7 +11,7 @@
             }
                         h2 {
                 color: white;
-                text-align: right;
+                text-align: center;
                 margin-top: 20px;
             }
             p {
@@ -22,7 +22,7 @@
             }
                 img {
                 margin: 0 auto;
-                width: 50%;
+                width: 100%;
                 height: auto;
                 margin: 20px ;
             }
@@ -31,32 +31,108 @@
   overflow:auto;
 }
 div.mycontainer div {
-  width: 60%;
+  width: 45%;
   padding: 10px;
   float:left;
 }
             div.mycontainer2 {
   width:100%;
-  overflow:auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  overflow: visible;
 }
 div.mycontainer2 div {
   width:45%;
   padding:10px;  
-  float:right;
+  float:none;
+}
+.bigimg {
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  display: block;
 }
         </style>
     </head>
 
     <body>
-        <h1 style="font-size: 300%;">the machines</h1>
+        <title>Machines</title>
+        <h1 style="font-size: 300%;">The machines</h1>
         <p style="text-align: center; color: white; font-size: 1.2em;">The machines in Horizon Zero Dawn are a diverse array of robotic creatures, each with unique designs and functions. They range from small, nimble machines to massive, towering behemoths. These machines are remnants of a long-lost civilization, and their presence shapes the world Aloy explores.</p>
         <div class="mycontainer">
             <div>
             <img src="https://www.theloadout.com/wp-content/sites/theloadout/2022/02/horizon-forbidden-west-reconnaissance-machines.jpg" alt="recon" width="104" height="142">
-            
+            </div>
+
+            <div>
             <h2>Reconnaissance Machines</h2>
+            <p>These are the watchful eyes of the machine ecosystem. Agile, alert, and programmed to detect intruders, reconnaissance machines patrol territories and serve as sentinels for more dangerous species. Though not heavily armed, they are vital in coordinating the activities of nearby machines.</p>
+            <p>They move in circular patrol paths, pause to scan, and react quickly to disturbances. Their presence in machine herds is both practical and strategic: eliminate them first to prevent backup.</p>
+            <p>Target the eye with a precision arrow for an instant kill. Use stealth or tall grass to approach silently. Watchers can be overridden to turn them into short-term allies, distracting or attacking enemies.</p>
+            </div>
+            </div>
+
+            <div class="mycontainer2">
+            <div>
+                <h2>Acquisition Machines</h2>
+                <p>These machines are built to harvest resources, such as fuel, biomass, and minerals, aiding the terraforming efforts of GAIA. Often herbivore-inspired, they resemble grazing animals and can be found in large, often passive, herds.</p>
+                <p>They mimic real-world herd behavior, moving across grazing areas and avoiding conflict when possible. When threatened, they may stampede, causing chaos for attackers.</p>
+                <p>Use elemental arrows (especially fire or tear) to detonate their canisters. In large groups, use Tripcasters or Ropecasters to control the chaos. Overriding Broadheads or Chargers lets Aloy traverse vast terrain quickly.</p>
+            </div>
+            <div>
+                <img src="https://i.psnprofiles.com/guides/13935/29029c.jpg" alt="lancehorn" width="104" height="142">
+            </div>
+            </div>
+
+            <div class="mycontainer">
+            <div>
+                <img src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2019/11/horizon-zero-dawn-behemoth-Cropped.jpg" alt="behemoth" width="104" height="142">
+            </div>
+            <div>
+                <h2>Transport machines</h2>
+                <p>Logistical machines designed to move cargo and maintain machine infrastructure. Often passive unless provoked, they carry valuable resources and may travel with defensive escorts.</p>
+                <p>These machines sustain the machine network by moving resources. Shell-Walkers often travel in caravans and create temporary fortifications by deploying shields and climbing walls.</p>
+            </div>
+            </div>
+
+            <div class="mycontainer2">
+            <div>
+                <h2>Combat Machines</h2>
+                <p>The deadliest category, combat machines are built for offensive and defensive warfare. Originally developed by the Faro Automated Solutions Chariot line, these units are the legacy of humanity’s hubris—repurposed and reforged for a new, wild era.</p>
+                <p>These machines guard high-value areas or act as apex predators. They often operate alone or in pairs and demonstrate complex battle strategies such as flanking, stealth, or aggressive area denial.</p>
+                <p>Use Tearblast Arrows to strip away armor and weaponry. Focus on detachable components—many of their weapons can be used against them once knocked off. Use traps, stealth, and elemental combinations to outmaneuver them.</p>
+            </div>
+            <div>
+                <img src="https://preview.redd.it/oeleiar251p51.jpg?width=640&crop=smart&auto=webp&s=cbfc2659d11772ebbfc04fd9a373bae8be7dec0f" alt="thunderjaw" width="104" height="142">
+            </div>
             </div>
             
+            <div class="mycontainer">
+            <div>
+                <img src="https://i0.wp.com/nerdgamerjf.com.br/wp-content/uploads/2022/04/ave-tempestade1.jpg?resize=750%2C422&ssl=1" alt="stormbird" width="104" height="142">
             </div>
-    
+            <div>
+                <h2>Aerial machines</h2>
+                <p>Taking to the skies, aerial machines provide a significant threat due to their mobility, verticality, and elemental attacks. They are difficult to hit and often require careful planning to take down effectively. </p>
+                <p>They dominate the aerial space, maintaining control over ruins, scrap fields, and mountain passes. Glinthawks are rarely alone and often arrive to scavenge fallen machines.</p>
+                <p>Shock weapons are vital. Use Shock Arrows to temporarily stun them and bring them to the ground. For Stormbirds, target wings, engines, and lightning sacs. A well-placed rope trap or Ropecaster can bind them temporarily for easier targeting.</p>
+            </div>
+            </div>
+
+            <div class="mycontainer2">
+                <div>
+                    <h2>Utility & Support Machines</h2>
+                    <p>These machines serve specialized roles that don’t fall under standard categories. Some provide environmental control, while others have unique functions tied to the game’s narrative and technological lore.</p>
+                    <p>Tallnecks are peaceful and scripted to walk fixed routes, serving as a symbol of Gaia’s original design. Corruptors are terrifying battlefield commanders that manipulate other machines. Scorchers are relentless attackers built for sudden, high-intensity combat.</p>
+                    <a href="http://127.0.0.1:3000/mbo%20start" target="_self">home</a>
+                </div>
+                <div>
+                    <img class="bigimg" src="https://images.squarespace-cdn.com/content/v1/64ec1ab68b1c4574700fcd3c/0fb0b089-a6e8-4c34-b10d-149f59726298/HorizonZeroDawn1-1.jpg" alt="tallneck">
+                </div>
+
+                
+
+
+            
     </body>
